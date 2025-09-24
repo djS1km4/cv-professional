@@ -28,13 +28,13 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 - **Metodologías:** Pair Programming con IA
 - **Aplicaciones:** Embeddings, análisis predictivo, automatización
 
-### 🖥️ Frontend
+### 🖥️ Frontend ( Basico en formación )
 - **Frameworks:** React, TypeScript
 - **Styling:** Tailwind CSS
 - **Estado:** Zustand
 - **Build Tools:** Vite
 
-### 🏗️ Infraestructura (15 años de experiencia)
+### 🏗️ Infraestructura, Hardware y Sistemas (15 años de experiencia)
 - **Sistemas Operativos:** Linux, Windows Server
 - **Redes:** TCP/IP, VLANs, pfSense, cableado estructurado
 - **Virtualización:** VirtualBox, VMware
@@ -49,7 +49,7 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 
 ### 🌐 Idiomas
 - **Español:** Nativo
-- **Inglés:** Técnico intermedio (lectura y escritura)
+- **Inglés:** Técnico Basico (lectura y escritura)
 
 ---
 
@@ -105,7 +105,7 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 - **Diagnóstico y reparación** a nivel componente
 - **Especialización en:** Placa base, VRM, BIOS, memorias RAM, SSD, fuentes de poder
 - **Recuperación de datos** en escenarios críticos
-- **Mantenimiento preventivo** y correctivo
+- **Gestión de ciclo o mantenimiento** de vida y soporte técnico de activos IT
 
 ---
 
@@ -122,6 +122,7 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 - **Embeddings:** Procesamiento de documentos y búsqueda semántica
 - **APIs de IA:** Integración con modelos de lenguaje
 - **Análisis predictivo** y procesamiento de datos
+- Gestión de **confiabilidad operativa** y mitigación de incidentes
 
 ---
 
@@ -148,8 +149,8 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 - **Construcción de equipos tecnológicos óptimos** maximizando recursos disponibles
 
 ### 💪 **Gestión de Presión y Resiliencia**
-- **Situaciones críticas:** Rescate de información en escenarios casi imposibles
-- **Mantenimiento de la calma** bajo presión
+- **Situaciones críticas** Rescate de información en escenarios casi imposibles
+- Habilidad para **Mantener la calma** bajo presión
 - **Reducción de frustración** del cliente en crisis técnicas
 
 ### 🔍 **Reconocimiento Técnico**
@@ -165,13 +166,13 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 - **Amante de los viajes**, especialmente recorridos por carretera en moto
 - **Ex DJ de Hard Techno** con años de reconocimiento en la escena underground de Bogotá y Colombia
 - **Apasionado por los animales**, el anime, Dragon Ball
-- **Aficionado** a las películas de terror y la música clásica
+- **Aficionado** a las películas de terror , ciencia ficcion y la música clásica
 - **Amo cocinar** y experimentar con nuevas recetas
 
 ### 🎵 **Experiencia Artística**
 - **DJ profesional** en la escena Hard Techno
 - **Reconocimiento** en el underground de Bogotá y Colombia
-- **Creatividad** y capacidad de innovación aplicada a la tecnología
+- **Creatividad** y capacidad de integral aplicada a la tecnología
 
 ---
 
@@ -191,14 +192,13 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 
 ### 🚀 **Visión a Futuro**
 - **Especialización en IA aplicada** al desarrollo de software
-- **Liderazgo técnico** en proyectos de innovación
+- **Liderazgo técnico** en proyectos de alto impacto tecnológico
 - **Contribución al crecimiento** del equipo y la organización
 
 ### 💡 **Valor Diferencial**
 - **Combinación única:** 15 años de infraestructura + desarrollo moderno + IA
 - **Mentalidad de resolución** de problemas complejos
-- **Capacidad de innovación** y adaptación tecnológica
-
+- **Capacidad de generar valor** integrando IA como pair-programmer, con rápida adaptación tecnológica.
 ---
 
 ## ✅ Disponibilidad
