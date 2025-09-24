@@ -155,7 +155,7 @@ Como **desarrollador junior especializado en IA**, combino mi extensa experienci
 ### 🔍 **Reconocimiento Técnico**
 - **Conocimientos profundos** en hardware y tecnología
 - **Enfoque práctico** y soluciones innovadoras
-- **Entrega de "lo mejor dentro de lo posible"**
+- **Construcción de equipos tecnológicos óptimos, siempre maximizando recursos disponibles y entregando, "lo mejor dentro de lo posible"**
 
 ---
 
