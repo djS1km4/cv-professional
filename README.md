@@ -1,4 +1,4 @@
-# 👨‍💻 DJ S1km4 - Desarrollador Full Stack Junior
+# 👨‍💻 Cristian Andrés García Ospina - Desarrollador Junior
 
 > **Especialista en Inteligencia Artificial y Pair Programming**  
 > Desarrollador apasionado por crear soluciones innovadoras con IA
@@ -41,7 +41,7 @@ Soy un **desarrollador full stack junior** con una pasión especial por la **int
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### **Herramientas & DevOps**
+### **Herramientas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
