@@ -129,10 +129,10 @@ Como desarrollador junior, mi fortaleza radica en:
 
 ## 📞 Contacto
 
-📧 **Email**: [Tu email profesional]  
-🔗 **LinkedIn**: [Tu perfil de LinkedIn]  
+📧 **Email**: djs1km4@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/sikma](https://www.linkedin.com/in/sikma)  
 🐙 **GitHub**: [@djS1km4](https://github.com/djS1km4)  
-🌐 **Portfolio**: [Tu sitio web personal]  
+📱 **Teléfono**: +57 321 975 1974  
 
 ---
 
