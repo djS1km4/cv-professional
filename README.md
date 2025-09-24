@@ -1,129 +1,212 @@
-# 👨‍💻 DJ S1km4 - Desarrollador Full Stack Junior
+# 👨‍💻 Cristian Andrés García Ospina
 
-> **Especialista en Inteligencia Artificial y Pair Programming**  
-> Desarrollador apasionado por crear soluciones innovadoras con IA
-
-[![GitHub](https://img.shields.io/badge/GitHub-djS1km4-181717?style=for-the-badge&logo=github)](https://github.com/djS1km4)
-[![AI Specialist](https://img.shields.io/badge/AI-Specialist-00D4AA?style=for-the-badge&logo=openai)](https://github.com/djS1km4)
-[![Pair Programming](https://img.shields.io/badge/Pair-Programming-FF6B6B?style=for-the-badge&logo=visualstudiocode)](https://github.com/djS1km4)
+## 🎯 Ingeniero de Sistemas (cursante) | Tecnólogo con 15+ años en infraestructura IT | Backend Developer en formación + IA
 
 ---
 
-## 🚀 Sobre Mí
+## 🔗 Perfil Profesional
 
-Soy un **desarrollador full stack junior** con una pasión especial por la **inteligencia artificial** y el **desarrollo colaborativo**. Mi enfoque se centra en crear aplicaciones modernas que integren capacidades de IA para resolver problemas reales.
+Tecnólogo con más de **15 años de experiencia** en diseño, instalación y mantenimiento de redes, servidores y estaciones de trabajo. **Aprendiz constante**, actualmente en transición al desarrollo backend, donde aplico mi sólida base en sistemas y potencio la productividad con **IA conversacional** (Claude, Mistral, ChatGPT) como **pair-programming**.
 
-### 🎯 **Mi Diferencial:**
-- **🤖 Especialización en IA**: Integración de modelos de lenguaje, análisis predictivo y automatización inteligente
-- **👥 Pair Programming Expert**: Experiencia en desarrollo colaborativo y metodologías ágiles
-- **🔄 Aprendizaje Continuo**: Adaptación rápida a nuevas tecnologías y frameworks
-- **💡 Pensamiento Innovador**: Enfoque creativo para resolver desafíos técnicos complejos
+Como **desarrollador junior especializado en IA**, combino mi extensa experiencia en infraestructura con nuevas habilidades en desarrollo backend, utilizando metodologías de pair programming con IA para acelerar el desarrollo y crear soluciones innovadoras.
+
+**Busco primera experiencia formal como desarrollador**, listo para aportar valor desde el primer día y crecer junto al equipo, aportando tanto mi experiencia técnica como mi capacidad de integrar IA en los procesos de desarrollo.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🚀 Backend (en formación)
+- **Lenguajes:** Python
+- **Frameworks:** FastAPI, SQLAlchemy, Pydantic
+- **Bases de Datos:** PostgreSQL, SQLite
+- **Contenedores:** Docker
+- **Testing:** pytest
 
-### **Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🤖 IA & Productividad
+- **IA Conversacional:** Claude, Mistral, ChatGPT
+- **Metodologías:** Pair Programming con IA
+- **Aplicaciones:** Embeddings, análisis predictivo, automatización
 
-### **Inteligencia Artificial**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🖥️ Frontend
+- **Frameworks:** React, TypeScript
+- **Styling:** Tailwind CSS
+- **Estado:** Zustand
+- **Build Tools:** Vite
 
-### **Herramientas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🏗️ Infraestructura (15 años de experiencia)
+- **Sistemas Operativos:** Linux, Windows Server
+- **Redes:** TCP/IP, VLANs, pfSense, cableado estructurado
+- **Virtualización:** VirtualBox, VMware
+- **Directorio:** Active Directory
+- **Scripting:** Bash, PowerShell
+- **Monitoreo:** Nagios, Zabbix
+
+### 🔧 DevOps & Herramientas
+- **Versionado:** Git, GitHub, GitLab
+- **Metodologías:** Scrum (autodidacta), ITIL (experiencia en soporte)
+- **Automatización:** Scripts de respaldo, deployment
+
+### 🌐 Idiomas
+- **Español:** Nativo
+- **Inglés:** Técnico intermedio (lectura y escritura)
+
+---
+
+## 🎓 Formación Académica
+
+**Ingeniería de Sistemas** - Escuela Colombiana de Ingeniería Julio Garavito  
+📍 Bogotá | 🗓️ 2005 – 2007  
+📊 **Cursante – 50% de avance**
+
+---
+
+## 🏆 Experiencia Profesional
+
+### 💼 Independiente / Consultor TI
+📍 **Bogotá** | 🗓️ **Enero 2009 – Actualidad** (15+ años)
+
+#### 🚀 **Desarrollo Backend (Último año)**
+- **Migré activamente al desarrollo backend:** Construí **2 proyectos personales** (Python + bases de datos)
+- **Empleé IA conversacional como pair-programmer** para acelerar el desarrollo
+- **70% del código generado/revisado** con Claude, Mistral y ChatGPT
+- **Tiempo de entrega optimizado:** Proyectos completados en 2 días
+
+#### ⚡ **Automatización y Scripting**
+- **Automatizé respaldos** con scripts Bash/PowerShell
+- **Reducción de tiempos en 60%** en procesos de backup
+- **Scripting avanzado:** Arranque automático, auto-restart, tuning de BIOS
+
+#### 🏭 **Gestión de Granjas de Minería (2021-2023)**
+- **Administración completa** de granjas de minería cryptocurrency
+- **Overclock y optimización** de hardware especializado
+- **Monitorización 24/7** con Hive OS y túneles SSH
+- **Gestión de infraestructura crítica** con alta disponibilidad
+
+#### 🖥️ **Administración de Servidores**
+- **Administré +50 servidores** Windows/Linux
+- **99% de uptime** mediante monitoreo con Nagios y Zabbix
+- **Gestión proactiva** de infraestructura crítica
+- **Resolución de incidentes** en tiempo real
+
+#### 🌐 **Diseño e Implementación de Redes**
+- **+120 redes LAN/WAN** implementadas para pymes y hogares
+- **Cableado estructurado** profesional
+- **Configuración de VLANs** y segmentación de red
+- **Balanceo de carga** y optimización de conectividad
+
+#### 💻 **Software Especializado**
+- **Instalación y configuración** de ERP, software contable, puntos de venta
+- **Implementación para empresas** y oficinas
+- **Soporte técnico especializado** para clientes particulares
+- **Integración de sistemas** complejos
+
+#### 🔧 **Reparación de Hardware**
+- **Diagnóstico y reparación** a nivel componente
+- **Especialización en:** Placa base, VRM, BIOS, memorias RAM, SSD, fuentes de poder
+- **Recuperación de datos** en escenarios críticos
+- **Mantenimiento preventivo** y correctivo
 
 ---
 
 ## 🌟 Habilidades Especializadas
 
-### 🤖 **Inteligencia Artificial**
-- **Integración de LLMs**: Implementación de modelos de OpenAI, Claude, y otros
-- **Análisis Predictivo**: Desarrollo de sistemas de predicción y análisis de tendencias
-- **Automatización Inteligente**: Creación de workflows automatizados con IA
-- **Procesamiento de Lenguaje Natural**: Chatbots y sistemas de comprensión de texto
+### 🤝 **Pair Programming & IA**
+- **Metodologías colaborativas** con IA conversacional
+- **Desarrollo acelerado** usando Claude, Mistral, ChatGPT
+- **Code review asistido** por IA
+- **Documentación automática** y optimización de código
 
-### 👥 **Pair Programming & Colaboración**
-- **Desarrollo Colaborativo**: Experiencia en programación en pareja y revisión de código
-- **Metodologías Ágiles**: Scrum, Kanban y desarrollo iterativo
-- **Comunicación Técnica**: Capacidad para explicar conceptos complejos de manera clara
-- **Mentoring**: Apoyo a otros desarrolladores en su crecimiento técnico
-
-### 🚀 **Desarrollo Full Stack**
-- **Arquitectura de Software**: Diseño de sistemas escalables y mantenibles
-- **APIs RESTful**: Desarrollo de servicios web robustos y documentados
-- **Bases de Datos**: Diseño y optimización de esquemas relacionales
-- **UI/UX**: Creación de interfaces intuitivas y responsive
+### 🧠 **Inteligencia Artificial**
+- **Frameworks:** LangChain, Transformers
+- **Embeddings:** Procesamiento de documentos y búsqueda semántica
+- **APIs de IA:** Integración con modelos de lenguaje
+- **Análisis predictivo** y procesamiento de datos
 
 ---
 
-## 📂 Proyectos Destacados
+## 🌐 Soft Skills
 
-### 🤖 [Sistema de Inventario con IA](https://github.com/djS1km4/inventory-ai-system)
-**Sistema de gestión de inventario moderno con análisis inteligente y predicciones de demanda**
+### 💬 **Comunicación Técnica**
+- **15 años de experiencia** en comunicación clara con usuarios no técnicos
+- **Capacidad de traducir** conceptos complejos a lenguaje comprensible
+- **Documentación técnica** detallada y accesible
 
-**🔧 Tecnologías:** React 18, TypeScript, FastAPI, SQLAlchemy, Chart.js  
-**🎯 Características:**
-- Dashboard inteligente con métricas en tiempo real
-- Sistema de predicción de demanda con IA
-- Gestión completa de inventario multi-ubicación
-- Autenticación JWT y roles de usuario
-- Notificaciones automáticas y alertas inteligentes
+### 👥 **Trabajo en Equipo**
+- **Pair-programming** tanto con personas como con IA
+- **Colaboración efectiva** en equipos multidisciplinarios
+- **Mentoría técnica** y transferencia de conocimiento
 
-**💡 Logros:**
-- Implementación completa en pair programming
-- Documentación profesional y scripts de instalación automática
-- Integración de análisis predictivo para optimización de stock
-- Interfaz moderna y responsive con excelente UX
+### 📚 **Aprendizaje Continuo**
+- **Promedio 2 cursos/mes** (Platzi, documentación oficial, investigación propia)
+- **Autodidacta nato** desde pequeño cultivé habilidades en electrónica y sistemas
+- **Experimentación constante** con nuevas tecnologías
 
----
+### 🎯 **Orientación al Cliente**
+- **Empatía y comprensión** de necesidades del usuario
+- **Soluciones equilibradas:** técnico, humano y presupuestal
+- **Construcción de equipos tecnológicos óptimos** maximizando recursos disponibles
 
-## 🎓 Enfoque de Aprendizaje
+### 💪 **Gestión de Presión y Resiliencia**
+- **Situaciones críticas:** Rescate de información en escenarios casi imposibles
+- **Mantenimiento de la calma** bajo presión
+- **Reducción de frustración** del cliente en crisis técnicas
 
-Como desarrollador junior, mi fortaleza radica en:
-
-- **🔄 Adaptabilidad**: Capacidad para aprender nuevas tecnologías rápidamente
-- **🤝 Colaboración**: Trabajo efectivo en equipo y pair programming
-- **🧠 Pensamiento Analítico**: Resolución de problemas complejos con enfoque sistemático
-- **📚 Autodidacta**: Constante actualización en tendencias tecnológicas y mejores prácticas
-
----
-
-## 📈 Objetivos Profesionales
-
-### **Corto Plazo (6-12 meses)**
-- Profundizar en arquitecturas de microservicios
-- Especializarme en MLOps y deployment de modelos de IA
-- Contribuir a proyectos open source relacionados con IA
-
-### **Mediano Plazo (1-2 años)**
-- Liderar proyectos de desarrollo con componentes de IA
-- Mentorear a otros desarrolladores junior
-- Desarrollar expertise en sistemas distribuidos
+### 🔍 **Reconocimiento Técnico**
+- **Conocimientos profundos** en hardware y tecnología
+- **Enfoque práctico** y soluciones innovadoras
+- **Entrega de "lo mejor dentro de lo posible"**
 
 ---
 
-## 🤝 ¿Por qué trabajar conmigo?
+## 🧠 Más Sobre Mí
 
-✅ **Pasión por la IA**: Genuino interés en crear soluciones innovadoras  
-✅ **Colaborativo**: Experiencia comprobada en pair programming  
-✅ **Proactivo**: Iniciativa para proponer mejoras y soluciones  
-✅ **Comunicativo**: Habilidad para trabajar en equipos multidisciplinarios  
-✅ **Orientado a Resultados**: Enfoque en entregar valor real al negocio  
+### 🏍️ **Pasiones Personales**
+- **Amante de los viajes**, especialmente recorridos por carretera en moto
+- **Ex DJ de Hard Techno** con años de reconocimiento en la escena underground de Bogotá y Colombia
+- **Apasionado por los animales**, el anime, Dragon Ball
+- **Aficionado** a las películas de terror y la música clásica
+- **Amo cocinar** y experimentar con nuevas recetas
+
+### 🎵 **Experiencia Artística**
+- **DJ profesional** en la escena Hard Techno
+- **Reconocimiento** en el underground de Bogotá y Colombia
+- **Creatividad** y capacidad de innovación aplicada a la tecnología
+
+---
+
+## 🔭 Objetivo Profesional
+
+**Unirme a un equipo ágil** donde pueda:
+
+### 🎯 **Contribución Inmediata**
+- **Aportar mi experiencia** en infraestructura y nuevo stack backend
+- **Integrar metodologías de IA** en los procesos de desarrollo
+- **Acelerar entregas** mediante pair programming con IA
+
+### 📈 **Crecimiento Profesional**
+- **Aprender de mentores senior** y mejores prácticas del equipo
+- **Convertirme en 6-12 meses** en un desarrollador backend productivo y autónomo
+- **Educar al equipo** en el uso efectivo de IA para desarrollo
+
+### 🚀 **Visión a Futuro**
+- **Especialización en IA aplicada** al desarrollo de software
+- **Liderazgo técnico** en proyectos de innovación
+- **Contribución al crecimiento** del equipo y la organización
+
+### 💡 **Valor Diferencial**
+- **Combinación única:** 15 años de infraestructura + desarrollo moderno + IA
+- **Mentalidad de resolución** de problemas complejos
+- **Capacidad de innovación** y adaptación tecnológica
+
+---
+
+## ✅ Disponibilidad
+
+**🟢 Inmediata**
+- **Part-time / Full-time**
+- **Modalidad híbrida o remota**
+- **Flexibilidad horaria**
 
 ---
 
@@ -136,10 +219,11 @@ Como desarrollador junior, mi fortaleza radica en:
 
 ---
 
-<div align="center">
+## 📋 Documentación Adicional
 
-### 💡 "La inteligencia artificial no reemplaza a los desarrolladores, potencia a aquellos que saben usarla"
+📁 **[Proyectos Detallados](./PROJECTS.md)** - Portfolio completo con proyectos de IA y desarrollo  
+🛠️ **[Habilidades Técnicas](./SKILLS.md)** - Stack tecnológico detallado y especializaciones  
 
-**¿Listo para crear el futuro juntos?** 🚀
+---
 
-</div>
+*"La experiencia en infraestructura me enseñó a pensar en sistemas completos, la IA me mostró el futuro del desarrollo, y el pair programming me dio las herramientas para construir ese futuro hoy."*
